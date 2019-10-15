@@ -14,4 +14,5 @@ The face authentication is done as:
 
 The python files can be converted to executables as :
 > pip install pyinstaller
+
 > pyinstaller --onefile filename.py
